@@ -12,8 +12,7 @@ This module creates a load balancer with a backend pool and health probe in Azur
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/TerWebDB-main.git
-    cd TerWebDB-main/modules/loadbalancer
+    git clone https://github.com/henhen13/Terraform/tree/main/loadbalancer
     ```
 
 2. **Edit the `terraform.tfvars` file:**
