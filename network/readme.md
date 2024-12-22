@@ -12,8 +12,7 @@ This module creates a virtual network with subnets and network security groups i
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/TerWebDB-main.git
-    cd TerWebDB-main/modules/network
+    git clone https://github.com/henhen13/Terraform/tree/main/network
     ```
 
 2. **Edit the `terraform.tfvars` file:**
@@ -62,11 +61,3 @@ This module creates a virtual network with subnets and network security groups i
 - `web_subnet_id`: ID of the web subnet.
 - `db_subnet_id`: ID of the database subnet.
 - `web_nsg_id`: ID of the network security group for web servers.
-
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
