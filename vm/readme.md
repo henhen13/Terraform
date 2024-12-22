@@ -12,8 +12,7 @@ This module deploys a virtual machine in Azure with optional configurations for 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/TerWebDB-main.git
-    cd TerWebDB-main/modules/vm
+    git clone https://github.com/henhen13/Terraform/tree/main/vm
     ```
 
 2. **Edit the `terraform.tfvars` file:**
